@@ -32,3 +32,36 @@ Input/Output:
 Im going to work on my PCB design next. I think doing the pcb before the actual 3d modeling is smarter so then i can build an enclosure and a model reflecting the actual pcb rather than estimated dimensions. However one thing i am worrying is that my pins are not ordered correctly, for example for my servos i have a 3 pin and i get a different layout (5v, gnd and data) every time i search it up so i just choose the most frequently used layout online. Im worrying about this alot cause my github.com/phantom-ascii/S.O-Dongle project had a similar bug and the oled would just fry itself if i used it. hopefully everything works tho. **Till next time!**
 
 **Total time spent: 2 hours**
+
+# Oct 27 Finished the main board
+That was much easier than i though making the pcb was actually so flipping easy it just took a while. i started by assignign footprints wihch may have been the hardest bit of this project using claude and firefox to find the footprints i need i then moved onto assignign 3d models. idk about you but i neeeeeed to assign 3d models to my components. Seeing an accurate 3 version of your pcb is just so satisfying. I then started with placement. I placed the 4 input keys in a cluster and the *shift key thing* sparatly on the right of the board. i put the xiao in the bottom left and out of the way so tracing would be easier and i pu the 4 servos output at the top of the board leavign sufficent space for the actual plastic headers to clip in. i put my screw terminal in the bottom left keeping it close to the other power components to keep the 2mm power traces short and simple:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/6.png)
+
+I think in the whole pcb i only used 2 vias wich i think is a flex. I then started by tracing which was easy enough. I sytarted with the main power rails such as vin and 5v (not gnd as i would have a gnd pour on the front and back copper) which were all 2mm width by using different netclasses. the rest of the tracks were 0.3 mm. I put all power rail tracks on f.cu and most other tracks on the b.cu. I ran a quick drc and fixxed a quick problem where my gnd fill was split into two islands. I fixxed it by just increasing the boards length tso the fill could go around traces and reach the other island as shown here:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/7.png)
+
+and got 0 errors on drc:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/8.png)
+
+final board traced:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/9.png)
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/10.png)
+
+I then snatched an image from pinterest for the desing on the back of the pcb and added the hack club orhpeus flag:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/11.png)
+
+I also added a bit of silkscreen on the front of the pcb:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/12.png)
+
+This is the final board:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/13.png)
+
+Then I used a kicad fabrication mod and generated the gerbers, drill files plotters ect and after a few git this git that committed everything to my github. *** ik i need to work on the read me ***
+**Total time spent: 2 hours**
