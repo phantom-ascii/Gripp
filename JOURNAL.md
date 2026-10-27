@@ -63,5 +63,8 @@ This is the final board:
 
 ![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/13.png)
 
-Then I used a kicad fabrication mod and generated the gerbers, drill files plotters ect and after a few git this git that committed everything to my github. *** ik i need to work on the read me ***
-**Total time spent: 2 hours**
+Then I used a kicad fabrication mod and generated the gerbers, drill files plotters ect and after a few git this git that committed everything to my github. *ik i need to work on the read me*
+
+i forgot about lapse so i only lapsed like 40 mins and then another 40 mins before but cause i wasnt lapsing ill only cant 30 mins
+
+**Total time spent: 1 hours 10 mins**
