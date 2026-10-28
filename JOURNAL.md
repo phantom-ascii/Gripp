@@ -114,6 +114,8 @@ Finalised (hopefully) enclosure:
 
 psst ik i said that i finished the enclosure but imma quickly spend like 10 mins chamfering and filetting everything.
 
+did like 2hrs lapsed and like 1 ish without cause i 4got lol
+
 **Total time spent: 3 hours 15 mins**
 
 # Oct 28 Done a bit of chamfering and filleting and a designing
