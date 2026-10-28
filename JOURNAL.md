@@ -115,3 +115,10 @@ Finalised (hopefully) enclosure:
 psst ik i said that i finished the enclosure but imma quickly spend like 10 mins chamfering and filetting everything.
 
 **Total time spent: 3 hours 15 mins**
+
+# Oct 28 Done a bit of chamfering and filleting and a designing
+I added a few chamfers and fillets and added a quick designing on he bottom, not much else to say so here's the image. For the wavy design on the bottom i used onshapes spline tools and then drew a few random lines. I then used the text function to add the text on bottom.
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/24.png)
+
+**Total time spent: 30 minutes**
