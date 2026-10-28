@@ -1,8 +1,11 @@
 ---
+
 title: "Gripp"
 author: "phantom-ascii"
-description: "A beutifully simple robot arm"
+description: "A beautifully simple robot arm"
 created_at: "2026-10-26"
+
+---
 
 # Oct 26 IK i started another project but welp
 
