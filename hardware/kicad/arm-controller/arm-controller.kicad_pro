@@ -568,7 +568,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../../models/arm-controller.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""

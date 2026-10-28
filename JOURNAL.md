@@ -68,3 +68,50 @@ Then I used a kicad fabrication mod and generated the gerbers, drill files plott
 i forgot about lapse so i only lapsed like 40 mins and then another 40 mins before but cause i wasnt lapsing ill only cant 30 mins
 
 **Total time spent: 1 hours 10 mins**
+
+# Oct 27 - 28 I started the 3d models and finished the enclosure
+Wow that took most of my evening. I spent a good 3 hrs and more on this and i hope yall like it. I added so much more polish to this than my other projects and i think it turned out really nice. I started by centring the pcb in an assembly (at first i used a stl exort but it wouldnt centre with a fastened mate so im using a pcb step model instead now) and making a simple shell around the pcb. I then added a few cutouts for the Terminal wires, the usb-c xiao port and the output servo header wires. I added walls at varying height for design and so that you can actually click the keys down. Then i made a little nice looking over hang over the header wire slot so that idk icl im waffling i just added cause i thought it looked nice. I then added the lid and started polishing it for like 1 hour. This is where i learnt how to put text into a sketch put onshapes tool for this is a bit clunky tbf. Anyways heres some pictures:
+
+PCB (stl):
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/13.png)
+
+Almost finished enclosure:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/15.png)
+
+Lid:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/16.png)
+
+Shell and pcb (step)
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/17.png)
+
+Terminal wire hole:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/18.png)
+
+Usb-c hole:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/19.png)
+
+Back servos wire hole:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/20.png)
+
+Warning decoration:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/21.png)
+
+Screw:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/22.png)
+
+Finalised (hopefully) enclosure:
+
+![insert image here](https://github.com/phantom-ascii/Gripp/blob/main/images/23.png)
+
+psst ik i said that i finished the enclosure but imma quickly spend like 10 mins chamfering and filetting everything.
+
+**Total time spent: 3 hours 15 mins**
