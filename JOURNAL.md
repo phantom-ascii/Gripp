@@ -137,3 +137,10 @@ So for 3d modelling the arm im using onshape again and omfd i was like 2 hrs int
 Btw i just learnt how to use exploded view and its kinda cool
 
 **Total time spent: 4 hours**
+
+# Oct 30 Started the shoulder
+As the title suggests i just started the shoulder of the robot arm. Essentially its a empty blokc where i will attach a servo to the top and will screw to the base plate. I also used a few fsatened mate connectors to let the parts spin with the main servo. I madea little lip on the base plate holder to keep it from flying off and due to me now being able to spin around the parts i found out my lip was to large and would make contact with the shoulder module so i made it smaller and with a circualr desing so it still has alot of surface area and hopefully wont snap. pretty short day today i was very busy. I also added some screws into the assembly to show where the m3 inserts would be. I added the second servo and just found out the servo horn has a m3 thread in it so i didnt need to mold around the horn on the base i couldve just screwed it in. I did a bit of research on the servo and also found out that there is a 180 degree limit on it. idk if this will affect my robot arm so imma research on it more tmrw. Anyways its 2 am so icba writing more. night
+
+![insert image here](./images/26.png)
+
+**Total time spent: 1 hours**
